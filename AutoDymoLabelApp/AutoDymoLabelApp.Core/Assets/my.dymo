@@ -144,7 +144,7 @@
               <DataString></DataString>
               <DataString></DataString>
               <DataString></DataString>
-              <DataString>IMEI</DataString>
+              <DataString>IDENTIFIER</DataString>
             </MultiDataString>
           </Data>
           <HorizontalAlignment>Center</HorizontalAlignment>
